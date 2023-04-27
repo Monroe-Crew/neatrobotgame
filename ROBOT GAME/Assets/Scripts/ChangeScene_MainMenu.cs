@@ -12,7 +12,8 @@ public class ChangeScene_MainMenu : MonoBehaviour
     {
     }
 
-    public void BackButton{
+    public void BackButton()
+    {
         buttonClick.Play();
         SceneManager.LoadScene(game);
     }

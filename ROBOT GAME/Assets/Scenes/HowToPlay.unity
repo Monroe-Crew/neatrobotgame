@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 923270005}
   - component: {fileID: 923270004}
   - component: {fileID: 923270003}
-  - component: {fileID: 923270002}
+  - component: {fileID: 923270006}
   m_Layer: 5
   m_Name: BackButton
   m_TagString: Untagged
@@ -562,20 +562,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &923270002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 923270000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6c2e8d58d66fccb4abdf106025051f63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  game: MainMenu
-  buttonClick: {fileID: 1447746031}
 --- !u!114 &923270003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -620,13 +606,13 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 923270000}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 923270006}
+        m_TargetAssemblyTypeName: ChangeScene_MainMenu, Assembly-CSharp
+        m_MethodName: BackButton
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -670,6 +656,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 923270000}
   m_CullTransparentMesh: 1
+--- !u!114 &923270006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923270000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8db54b65a18f6b143b7797a1a3a465d9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  game: MainMenu
+  buttonClick: {fileID: 1447746031}
 --- !u!1 &1447746029
 GameObject:
   m_ObjectHideFlags: 0
