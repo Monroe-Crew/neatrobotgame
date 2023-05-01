@@ -11,7 +11,7 @@ public class Spaceship : MonoBehaviour
     Camera m_Camera;
     void Start(){
         m_Camera = Camera.main;
-        
+        spaceshiphud.SetActive(false);
     }
 
     void Update(){
