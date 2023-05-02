@@ -10,7 +10,7 @@ public class followplayer : MonoBehaviour
     // Update is called once per frame
     private void Start()
     {
-        posFromPlayer = new Vector3(0, transform.position.y, transform.position.z) - player.position;
+        posFromPlayer = transform.position - player.position;
     }
     void Update()
     {
