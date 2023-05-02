@@ -1,18 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class ChangeScene_HTP : MonoBehaviour
 {
-    public string game;
+    public GameObject htpPanel;
+    public GameObject mmPanel;
     public AudioSource buttonClick;
 
-    void Start(){
+    void Start()
+    {
     }
 
-    public void StartButton(){
+    public void StartButton()
+    {
         buttonClick.Play();
-        SceneManager.LoadScene(game);
+        mmPanel.SetActive(false);
+        htpPanel.SetActive(true);
     }
 }
