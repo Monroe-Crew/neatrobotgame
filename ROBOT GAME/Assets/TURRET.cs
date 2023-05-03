@@ -18,9 +18,11 @@ public class TURRET : MonoBehaviour
         {
 
         GameObject bCopy = Instantiate(bullet, transform.position, transform.rotation);
-            bCopy.transform.LookAt(hit.transform.position);
+            Vector3 point = hit.point;
+            point.y = transform.position.y;
+            bCopy.transform.LookAt(point);
         Rigidbody bCopyRigidBody = bCopy.AddComponent<Rigidbody>();
-        bCopyRigidBody.velocity = transform.forward * bulletSpeed;
+        bCopyRigidBody.velocity = bCopy.transform.forward * bulletSpeed;
         bCopyRigidBody.useGravity = false;
         Destroy(bCopy, 5);
         lastShot = Time.time;
