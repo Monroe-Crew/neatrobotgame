@@ -5,6 +5,7 @@ using UnityEngine;
 public class Stats : MonoBehaviour{
     public int gears;
     public int resourceMultiplier;
+    public int quartz;
     void Start(){
     }
 
@@ -23,4 +24,13 @@ public class Stats : MonoBehaviour{
     public void RemoveGears(int num){
         gears -= num;
     }
+
+    public void AddQuartz(int num){
+        quartz += num;
+    }
+
+    public void RemoveQuartz(int num){
+        quartz -= num;
+    }
+
 }

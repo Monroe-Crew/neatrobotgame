@@ -357,6 +357,7 @@
 "Assets/Scripts/ChangeScene_Game.cs"
 "Assets/Scripts/ChangeScene_HTP.cs"
 "Assets/Scripts/ChangeScene_MainMenu.cs"
+"Assets/Scripts/DepositButton.cs"
 "Assets/Scripts/Exit.cs"
 "Assets/Scripts/followplayer.cs"
 "Assets/Scripts/GameStart.cs"

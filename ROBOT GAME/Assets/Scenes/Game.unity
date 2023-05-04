@@ -270,6 +270,7 @@ GameObject:
   - component: {fileID: 238792104}
   - component: {fileID: 238792103}
   - component: {fileID: 238792102}
+  - component: {fileID: 238792105}
   m_Layer: 5
   m_Name: DepositButton
   m_TagString: Untagged
@@ -341,7 +342,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 238792103}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 238792105}
+        m_TargetAssemblyTypeName: DepositButton, Assembly-CSharp
+        m_MethodName: Deposit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &238792103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -380,6 +393,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 238792100}
   m_CullTransparentMesh: 1
+--- !u!114 &238792105
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 238792100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89ae12d88f4e9d4458910b7ba71e279e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 909595719}
+  button: {fileID: 238792100}
 --- !u!1 &485338627
 GameObject:
   m_ObjectHideFlags: 0
@@ -799,8 +826,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1fea49b4d35e21843bbaa4030652c830, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gears: 200
+  gears: 0
   resourceMultiplier: 1
+  quartz: 200
 --- !u!114 &909595727
 MonoBehaviour:
   m_ObjectHideFlags: 0
