@@ -8,21 +8,19 @@ public class DepositButton : MonoBehaviour{
     private int quartz;
     public GameObject player;
     public GameObject button;
+    public GameObject quartzDeposited;
     void Start(){
-        
+        quartz = 0;
     }
 
     void Update(){
-        if(button.GetComponent<Button>().interactable = false && player.GetComponent<Stats>().quartz > 0){
-            button.GetComponent<Button>().interactable = true;
-        }
-        if(button.GetComponent<Button>().interactable = true && player.GetComponent<Stats>().quartz == 0){
-            button.GetComponent<Button>().interactable = false;
-        }
+     
     }
 
-    public void Deposit(){
+    public void OnButtonPressed(){
         quartz += player.GetComponent<Stats>().quartz;
         player.GetComponent<Stats>().RemoveQuartz(player.GetComponent<Stats>().quartz);
+        string newText = quartz + "//1500 /n Quartz";
+        quartzDeposited.GetComponent<Text>().text = newText;
     }
 }
