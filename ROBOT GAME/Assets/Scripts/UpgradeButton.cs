@@ -1,29 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
-public class UpgradeButton : MonoBehaviour{
-    private bool visible;
+public class UpgradeButton : MonoBehaviour
+{
     public GameObject button;
     public GameObject upgradePanel;
+    public GameObject player;
+    public GameObject completePanel;
     void Start()
     {
-        visible = false;
-        //Make button greyed out and not clickable
     }
 
-    void Update(){
-        if (!visible){
-            //Check to see if player has enough gears
-                //If so, make button clickable and not greyed out
-        }
+    void Update()
+    {
     }
 
-    public void Upgrade(){
-        //remove gears from player
-        //double the resource mulitplier
-        upgradePanel.SetActive(false);
-        //make image of upgrade dissapear
-        //Update HUD layout? (If extra time)
+    public void Upgrade()
+    {
+        player.GetComponent<Stats>().RemoveGears(200);
+        player.GetComponent<Stats>().SetMulitplier(2);
+        completePanel.SetActive(true);
+        button.GetComponent<Button>().interactable = false;
+        //Make complete checkmark visible
     }
 }
