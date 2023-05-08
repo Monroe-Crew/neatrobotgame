@@ -10,14 +10,15 @@ public class Spaceship : MonoBehaviour
     public GameObject spaceshiphud;
     public GameObject ship;
     public GameObject player;
-    public GameObject upgradePanel;
     public GameObject upgradeButton;
-    public GameObject completePanel;
+    public GameObject completeUpgradePanel;
+    public GameObject depositButton;
+    public GameObject completeDepositPanel;
     Camera m_Camera;
     void Start(){
         m_Camera = Camera.main;
         spaceshiphud.SetActive(false);
-    }
+}
 
     void Update(){
         if (Input.GetMouseButtonDown(0)){
@@ -26,13 +27,21 @@ public class Spaceship : MonoBehaviour
             if (Physics.Raycast(ray, out RaycastHit hit)){
                 if(GameObject.ReferenceEquals(hit.transform.gameObject, ship)){
                     spaceshiphud.SetActive(true);
-                    completePanel.SetActive(false);
+                    completeUpgradePanel.SetActive(false);
+                    completeDepositPanel.SetActive(false);
                     if (player.GetComponent<Stats>().gears < 200){
                         upgradeButton.GetComponent<Button>().interactable = false;
                     }
+                    if(player.GetComponent<Stats>().quartz == 0){
+                        depositButton.GetComponent<Button>().interactable = false;
+                    }
                     if (player.GetComponent<Stats>().resourceMultiplier > 1){
-                        completePanel.SetActive(true);
+                        completeUpgradePanel.SetActive(true);
                         upgradeButton.GetComponent<Button>().interactable = false;
+                    }
+                    if (player.GetComponent<Stats>().completeDeposit == true){
+                        completeDepositPanel.SetActive(true);
+                        depositButton.GetComponent<Button>().interactable = false;
                     }
                 }
             }

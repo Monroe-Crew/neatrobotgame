@@ -6,7 +6,9 @@ public class Stats : MonoBehaviour{
     public int gears;
     public int resourceMultiplier;
     public int quartz;
+    public bool completeDeposit;
     void Start(){
+        completeDeposit = false;
     }
 
     void Update(){

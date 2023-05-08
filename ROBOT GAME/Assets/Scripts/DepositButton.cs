@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using TMPro;
 
 public class DepositButton : MonoBehaviour{
 
@@ -20,7 +21,8 @@ public class DepositButton : MonoBehaviour{
     public void OnButtonPressed(){
         quartz += player.GetComponent<Stats>().quartz;
         player.GetComponent<Stats>().RemoveQuartz(player.GetComponent<Stats>().quartz);
-        string newText = quartz + "//1500 /n Quartz";
-        quartzDeposited.GetComponent<Text>().text = newText;
+        string newText = quartz + "/1500  Quartz";
+        quartzDeposited.GetComponent<TextMeshProUGUI>().text = newText;
+        button.GetComponent<Button>().interactable = false;
     }
 }
