@@ -39,7 +39,7 @@ public class Spaceship : MonoBehaviour
                         completeUpgradePanel.SetActive(true);
                         upgradeButton.GetComponent<Button>().interactable = false;
                     }
-                    if (player.GetComponent<Stats>().completeDeposit == true){
+                    if (depositButton.GetComponent<DepositButton>().quartz >= 1500){
                         completeDepositPanel.SetActive(true);
                         depositButton.GetComponent<Button>().interactable = false;
                     }
