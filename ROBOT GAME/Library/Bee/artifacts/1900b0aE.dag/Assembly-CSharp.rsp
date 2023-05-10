@@ -367,6 +367,7 @@
 "Assets/Scripts/Spaceship.cs"
 "Assets/Scripts/Stats.cs"
 "Assets/Scripts/TURRET.cs"
+"Assets/Scripts/UpdateText.cs"
 "Assets/Scripts/UpgradeButton.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
