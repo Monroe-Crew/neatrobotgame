@@ -363,6 +363,7 @@
 "Assets/Scripts/Exit.cs"
 "Assets/Scripts/followplayer.cs"
 "Assets/Scripts/GameStart.cs"
+"Assets/Scripts/Gear.cs"
 "Assets/Scripts/Movement.cs"
 "Assets/Scripts/Spaceship.cs"
 "Assets/Scripts/Stats.cs"

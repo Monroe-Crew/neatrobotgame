@@ -35,4 +35,15 @@ public class Stats : MonoBehaviour{
         quartz -= num;
     }
 
+    void OnTriggerEnter(Collider other){
+        if (other.gameObject.CompareTag("Gear")){
+            Destroy(other.gameObject);
+            gears += 10;
+        }
+        else if (other.gameObject.CompareTag("Quartz"))
+        {
+            Destroy(other.gameObject);
+            quartz += 25 * resourceMultiplier;
+        }
+    }
 }

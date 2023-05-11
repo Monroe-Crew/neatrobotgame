@@ -6,6 +6,7 @@ public class AlienAttributes : MonoBehaviour
 {
     public float startingHealth = 100.0f;
     private float health;
+    public GameObject gear;
 
     void Start()
     {
@@ -17,6 +18,7 @@ public class AlienAttributes : MonoBehaviour
     {
         if (health <= 0.0f)
         {
+            dropItem(transform.position);
             Destroy(this.gameObject);
         }
     }
@@ -24,5 +26,9 @@ public class AlienAttributes : MonoBehaviour
     public void AddHealth(float num)
     {
         health += num;
+    }
+
+    public void dropItem(Vector3 spawnPosition){
+        Instantiate(gear, spawnPosition, Quaternion.identity);
     }
 }
