@@ -12,6 +12,7 @@ public class DepositButton : MonoBehaviour{
     public GameObject quartzDeposited;
     public GameObject completeDepositPanel;
     public GameObject launchButton;
+    public AudioSource buttonClickSound;
     void Start(){
         quartz = 0;
     }
@@ -21,6 +22,7 @@ public class DepositButton : MonoBehaviour{
     }
 
     public void OnButtonPressed(){
+        buttonClickSound.Play();
         quartz += player.GetComponent<Stats>().quartz;
         if (quartz > 1500){
             int diff = quartz - 1500;

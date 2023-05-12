@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class EndGame : MonoBehaviour
 {
     public string sceneName;
+    public AudioSource buttonClickSound;
 
     void Start()
     {
@@ -13,6 +14,7 @@ public class EndGame : MonoBehaviour
     }
 
     public void ButtonClicked(){
+        buttonClickSound.Play();
         SceneManager.LoadScene(sceneName);
     }
 }

@@ -9,6 +9,7 @@ public class UpgradeButton : MonoBehaviour
     public GameObject upgradePanel;
     public GameObject player;
     public GameObject completePanel;
+    public AudioSource upgradeSound;
     void Start()
     {
     }
@@ -17,8 +18,8 @@ public class UpgradeButton : MonoBehaviour
     {
     }
 
-    public void Upgrade()
-    {
+    public void Upgrade(){
+        upgradeSound.Play();
         player.GetComponent<Stats>().RemoveGears(200);
         player.GetComponent<Stats>().SetMulitplier(2);
         completePanel.SetActive(true);
