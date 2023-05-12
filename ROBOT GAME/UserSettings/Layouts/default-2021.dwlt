@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 28
+  controlID: 88
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 376
     height: 561
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 29
+  controlID: 89
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 30
+  controlID: 90
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,22 +317,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\109992\Documents\GitHub\neatrobotgame\ROBOT GAME
+  m_LastProjectPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ee5f0000
-    m_LastClickedID: 24558
-    m_ExpandedIDs: 00000000c85f0000ca5f0000e05f0000e25f000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 60}
+    m_SelectedIDs: ce5e0000
+    m_LastClickedID: 24270
+    m_ExpandedIDs: 00000000bc5e0000be5e0000c05e0000ce5e0000de5e0000ea5e00001c5f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c85f0000ca5f0000
+    m_ExpandedIDs: 00000000bc5e0000be5e0000c05e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +488,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 88a0ffff
-      m_LastClickedID: -24440
-      m_ExpandedIDs: 6ab2ffff6cb7ffffa4b9ffff30bbffff7ebcffff9ebdffffecbeffffc6c0ffffa0c1ffff6ac3ffff5ed2ffff54d3ffff7ed9ffff88d9ffffc8d9ffff52e8ffffb2e8ffff46e9ffffd6f2ffff64f9ffff8a5d0000dc5d0000845e0000d4620000226300009063000040740000fc740000267500002e750000f4750000b07600002a78000032780000467a00007a7a0000aa7a0000c07b00007c7c0000a67c0000ae7c0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 44faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -739,9 +739,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 476.98895, y: 273.04553, z: 113.445206}
+    m_Target: {x: 8.242614, y: 1.3112998, z: -2.1451092}
     speed: 2
-    m_Value: {x: 476.98895, y: 273.04553, z: 113.445206}
+    m_Value: {x: 8.242614, y: 1.3112998, z: -2.1451092}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -788,13 +788,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.20992936, y: -0.0014675879, z: 0.00031347212, w: 0.9777299}
+    m_Target: {x: -0.071552984, y: 0.6624045, z: -0.063785, w: -0.7430256}
     speed: 2
-    m_Value: {x: 0.20992638, y: -0.001467567, z: 0.00031346767, w: 0.977716}
+    m_Value: {x: -0.0749937, y: 0.6609778, z: -0.0666511, w: -0.74366796}
   m_Size:
-    m_Target: 385.33408
+    m_Target: 3.1511106
     speed: 2
-    m_Value: 385.33408
+    m_Value: 3.0154169
   m_Ortho:
     m_Target: 1
     speed: 2
