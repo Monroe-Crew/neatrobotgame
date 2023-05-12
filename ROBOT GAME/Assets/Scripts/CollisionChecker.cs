@@ -8,6 +8,8 @@ public class CollisionChecker : MonoBehaviour
     {
         if(other.CompareTag("Enemy")) other.gameObject.GetComponent<AlienAttributes>().AddHealth(-10);
 
+        if (other.CompareTag("Quartz")) other.gameObject.GetComponent<QuartzBehavior>().AddHealth(-10);
+
         if (!other.CompareTag("player")) Destroy(this.gameObject);
     }
     // Start is called before the first frame update
