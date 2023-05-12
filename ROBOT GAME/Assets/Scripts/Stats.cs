@@ -7,6 +7,7 @@ public class Stats : MonoBehaviour{
     public int resourceMultiplier;
     public int quartz;
     public bool completeDeposit;
+    public AudioSource pickupSound;
     void Start(){
         completeDeposit = false;
     }
@@ -39,11 +40,13 @@ public class Stats : MonoBehaviour{
         if (other.gameObject.CompareTag("Gear")){
             Destroy(other.gameObject);
             gears += 10;
+            pickupSound.Play();
         }
         else if (other.gameObject.CompareTag("Quartz"))
         {
             Destroy(other.gameObject);
             quartz += 25 * resourceMultiplier;
+            pickupSound.Play();
         }
     }
 }

@@ -6,12 +6,14 @@ public class TURRET : MonoBehaviour
     public float bulletSpeed = 10.0f;
     public float bulletRate = 0.1f;
     public GameObject bullet;
+    public AudioSource shootSound;
 
     private float lastShot = 0.0f;
 
 
     void Fire()
     {
+        shootSound.Play();
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
         if (Physics.Raycast(ray, out hit, 100))

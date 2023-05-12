@@ -11,6 +11,7 @@ public class DepositButton : MonoBehaviour{
     public GameObject button;
     public GameObject quartzDeposited;
     public GameObject completeDepositPanel;
+    public GameObject launchButton;
     void Start(){
         quartz = 0;
     }
@@ -34,6 +35,7 @@ public class DepositButton : MonoBehaviour{
         button.GetComponent<Button>().interactable = false;
         if (quartz == 1500){
             completeDepositPanel.SetActive(true);
+            launchButton.SetActive(true);
         }
     }
 }

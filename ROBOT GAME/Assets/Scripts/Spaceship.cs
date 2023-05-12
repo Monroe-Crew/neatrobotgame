@@ -14,6 +14,7 @@ public class Spaceship : MonoBehaviour
     public GameObject completeUpgradePanel;
     public GameObject depositButton;
     public GameObject completeDepositPanel;
+    public GameObject launchButton;
     Camera m_Camera;
     void Start(){
         m_Camera = Camera.main;
@@ -29,6 +30,7 @@ public class Spaceship : MonoBehaviour
                     spaceshiphud.SetActive(true);
                     completeUpgradePanel.SetActive(false);
                     completeDepositPanel.SetActive(false);
+                    launchButton.SetActive(false);
                     if (player.GetComponent<Stats>().gears < 200){
                         upgradeButton.GetComponent<Button>().interactable = false;
                     }
@@ -41,6 +43,7 @@ public class Spaceship : MonoBehaviour
                     }
                     if (depositButton.GetComponent<DepositButton>().quartz >= 1500){
                         completeDepositPanel.SetActive(true);
+                        launchButton.SetActive(true);
                         depositButton.GetComponent<Button>().interactable = false;
                     }
                 }
