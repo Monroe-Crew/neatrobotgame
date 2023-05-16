@@ -9,6 +9,7 @@ TagManager:
   - player
   - Gear
   - Quartz
+  - QuartzDrop
   layers:
   - Default
   - TransparentFX

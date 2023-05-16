@@ -13,603 +13,542 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2023-05-12T14:11:45.137-05:00
-  initializedAtString: 2023-05-12T13:58:34.491-05:00
+  lastUpdatedAtString: 2023-05-16T14:40:15.484-05:00
+  initializedAtString: 2023-05-16T14:30:25.926-05:00
   entries:
+  - path: ROBOT GAME\Assets\Gear.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Gear.meta
+    projectPath: Assets\Gear.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Gear\obj.mtl
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Gear\obj.mtl
+    projectPath: Assets\Gear\obj.mtl
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Gear\obj.mtl.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Gear\obj.mtl.meta
+    projectPath: Assets\Gear\obj.mtl.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Gear\tinker.obj
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Gear\tinker.obj
+    projectPath: Assets\Gear\tinker.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Gear\tinker.obj.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Gear\tinker.obj.meta
+    projectPath: Assets\Gear\tinker.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Quartz Drop.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop.meta
+    projectPath: Assets\Quartz Drop.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop 1.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop 1.meta
+    projectPath: Assets\Quartz Drop 1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop 1\obj.mtl
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop 1\obj.mtl
+    projectPath: Assets\Quartz Drop 1\obj.mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop 1\obj.mtl.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop 1\obj.mtl.meta
+    projectPath: Assets\Quartz Drop 1\obj.mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop 1\tinker.obj
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop 1\tinker.obj
+    projectPath: Assets\Quartz Drop 1\tinker.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop 1\tinker.obj.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop 1\tinker.obj.meta
+    projectPath: Assets\Quartz Drop 1\tinker.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop\obj.mtl
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop\obj.mtl
+    projectPath: Assets\Quartz Drop\obj.mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop\obj.mtl.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop\obj.mtl.meta
+    projectPath: Assets\Quartz Drop\obj.mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop\tinker.obj
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop\tinker.obj
+    projectPath: Assets\Quartz Drop\tinker.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Quartz Drop\tinker.obj.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Quartz
+      Drop\tinker.obj.meta
+    projectPath: Assets\Quartz Drop\tinker.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Assets\QuartzBehavior.cs
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\QuartzBehavior.cs
     projectPath: Assets\QuartzBehavior.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: ROBOT GAME\Assets\QuartzBehavior.cs.meta
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\QuartzBehavior.cs.meta
     projectPath: Assets\QuartzBehavior.cs.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: ROBOT GAME\Assets\Scenes\Game.unity
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scenes\Game.unity
     projectPath: Assets\Scenes\Game.unity
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ROBOT GAME\Assets\Scripts\CollisionChecker.cs
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scripts\CollisionChecker.cs
-    projectPath: Assets\Scripts\CollisionChecker.cs
+  - path: ROBOT GAME\Assets\Scripts\Gear.cs
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scripts\Gear.cs
+    projectPath: Assets\Scripts\Gear.cs
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Scripts\Gear.cs.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scripts\Gear.cs.meta
+    projectPath: Assets\Scripts\Gear.cs.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Assets\Scripts\QuartzBehavior.cs
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scripts\QuartzBehavior.cs
+    projectPath: Assets\Scripts\QuartzBehavior.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Scripts\QuartzBehavior.cs.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Scripts\QuartzBehavior.cs.meta
+    projectPath: Assets\Scripts\QuartzBehavior.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship.meta
+    projectPath: Assets\Spaceship.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship 1.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship
+      1.meta
+    projectPath: Assets\Spaceship 1.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship 1\obj.mtl
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship
+      1\obj.mtl
+    projectPath: Assets\Spaceship 1\obj.mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship 1\obj.mtl.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship
+      1\obj.mtl.meta
+    projectPath: Assets\Spaceship 1\obj.mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship 1\tinker.obj
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship
+      1\tinker.obj
+    projectPath: Assets\Spaceship 1\tinker.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship 1\tinker.obj.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship
+      1\tinker.obj.meta
+    projectPath: Assets\Spaceship 1\tinker.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship\obj.mtl
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship\obj.mtl
+    projectPath: Assets\Spaceship\obj.mtl
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship\obj.mtl.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship\obj.mtl.meta
+    projectPath: Assets\Spaceship\obj.mtl.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship\tinker.obj
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship\tinker.obj
+    projectPath: Assets\Spaceship\tinker.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Spaceship\tinker.obj.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Spaceship\tinker.obj.meta
+    projectPath: Assets\Spaceship\tinker.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Fotor_AI.png
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Fotor_AI.png
+    projectPath: Assets\Sprites\Fotor_AI.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Fotor_AI.png.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Fotor_AI.png.meta
+    projectPath: Assets\Sprites\Fotor_AI.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials.meta
+    projectPath: Assets\Sprites\Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\Fotor_AI 1.mat
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\Fotor_AI
+      1.mat
+    projectPath: Assets\Sprites\Materials\Fotor_AI 1.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\Fotor_AI 1.mat.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\Fotor_AI
+      1.mat.meta
+    projectPath: Assets\Sprites\Materials\Fotor_AI 1.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\Fotor_AI.mat
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\Fotor_AI.mat
+    projectPath: Assets\Sprites\Materials\Fotor_AI.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\Fotor_AI.mat.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\Fotor_AI.mat.meta
+    projectPath: Assets\Sprites\Materials\Fotor_AI.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\GearsImage.mat
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\GearsImage.mat
+    projectPath: Assets\Sprites\Materials\GearsImage.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Assets\Sprites\Materials\GearsImage.mat.meta
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Assets\Sprites\Materials\GearsImage.mat.meta
+    projectPath: Assets\Sprites\Materials\GearsImage.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\ArtifactDB
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ROBOT GAME\Library\Artifacts\05\051b41e00badf21b362f82080db28932
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\05\051b41e00badf21b362f82080db28932
-    projectPath: Library\Artifacts\05\051b41e00badf21b362f82080db28932
+  - path: ROBOT GAME\Library\Artifacts\02\02ec7a19dd4b140e31feca5a2dc8bda5
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\02\02ec7a19dd4b140e31feca5a2dc8bda5
+    projectPath: Library\Artifacts\02\02ec7a19dd4b140e31feca5a2dc8bda5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\03\036365e2d55553ee8cf8814791e3bd32
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\03\036365e2d55553ee8cf8814791e3bd32
+    projectPath: Library\Artifacts\03\036365e2d55553ee8cf8814791e3bd32
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\08\082f3bca61b4e020de090f74e3280df5
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\08\082f3bca61b4e020de090f74e3280df5
+    projectPath: Library\Artifacts\08\082f3bca61b4e020de090f74e3280df5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\09\094dc030b5fccab4edbe12d142d8afe6
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\09\094dc030b5fccab4edbe12d142d8afe6
+    projectPath: Library\Artifacts\09\094dc030b5fccab4edbe12d142d8afe6
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\05\05d4d2e5610f0af083758d64e46f3c28
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\05\05d4d2e5610f0af083758d64e46f3c28
-    projectPath: Library\Artifacts\05\05d4d2e5610f0af083758d64e46f3c28
+  - path: ROBOT GAME\Library\Artifacts\0f\0f49d1a9d646a7b5e3b18f3f3f7b426d
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\0f\0f49d1a9d646a7b5e3b18f3f3f7b426d
+    projectPath: Library\Artifacts\0f\0f49d1a9d646a7b5e3b18f3f3f7b426d
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\07\073001916a8e652e89dcc016c9d71a73
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\07\073001916a8e652e89dcc016c9d71a73
-    projectPath: Library\Artifacts\07\073001916a8e652e89dcc016c9d71a73
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\12\12a546cf6858107cffbe1eed99c2dcd5
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\12\12a546cf6858107cffbe1eed99c2dcd5
+    projectPath: Library\Artifacts\12\12a546cf6858107cffbe1eed99c2dcd5
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\07\074c74d1658d1bc1de8aee4eb395db7f
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\07\074c74d1658d1bc1de8aee4eb395db7f
-    projectPath: Library\Artifacts\07\074c74d1658d1bc1de8aee4eb395db7f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\14\144bd1a541c7c9fcc9c6140ac8ec8808
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\14\144bd1a541c7c9fcc9c6140ac8ec8808
+    projectPath: Library\Artifacts\14\144bd1a541c7c9fcc9c6140ac8ec8808
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\08\087916e350c6f8e53828d67d6daeb5b2
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\08\087916e350c6f8e53828d67d6daeb5b2
-    projectPath: Library\Artifacts\08\087916e350c6f8e53828d67d6daeb5b2
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\18\18b1fd05906bb8acea7d09387ed7bd4e
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\18\18b1fd05906bb8acea7d09387ed7bd4e
+    projectPath: Library\Artifacts\18\18b1fd05906bb8acea7d09387ed7bd4e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\08\08e296729ff394727d93eda32575fedf
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\08\08e296729ff394727d93eda32575fedf
-    projectPath: Library\Artifacts\08\08e296729ff394727d93eda32575fedf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\09\092f38aaf1b18b109d1d1dbae07b0e00
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\09\092f38aaf1b18b109d1d1dbae07b0e00
-    projectPath: Library\Artifacts\09\092f38aaf1b18b109d1d1dbae07b0e00
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\10\105577842d25d59fa404c93f463f2426
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\10\105577842d25d59fa404c93f463f2426
-    projectPath: Library\Artifacts\10\105577842d25d59fa404c93f463f2426
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\10\10b2ea082b3c631610b9798c90a5c74d
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\10\10b2ea082b3c631610b9798c90a5c74d
-    projectPath: Library\Artifacts\10\10b2ea082b3c631610b9798c90a5c74d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\10\10eeda9241ed63007d64f36a7b9164de
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\10\10eeda9241ed63007d64f36a7b9164de
-    projectPath: Library\Artifacts\10\10eeda9241ed63007d64f36a7b9164de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\13\130c96a8d31ea2fcb4cb5f03ec162043
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\13\130c96a8d31ea2fcb4cb5f03ec162043
-    projectPath: Library\Artifacts\13\130c96a8d31ea2fcb4cb5f03ec162043
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\1a\1a72530a53499e66b473a8f59e7864cd
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\1a\1a72530a53499e66b473a8f59e7864cd
-    projectPath: Library\Artifacts\1a\1a72530a53499e66b473a8f59e7864cd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\1e\1e962f2e6b929a216a6e386a6b222c08
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\1e\1e962f2e6b929a216a6e386a6b222c08
-    projectPath: Library\Artifacts\1e\1e962f2e6b929a216a6e386a6b222c08
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\1f\1fd039bbdd2510058fb483eb54d7f647
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\1f\1fd039bbdd2510058fb483eb54d7f647
-    projectPath: Library\Artifacts\1f\1fd039bbdd2510058fb483eb54d7f647
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\21\2105ba92c50fcb8593c1af714e7461f0
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\21\2105ba92c50fcb8593c1af714e7461f0
-    projectPath: Library\Artifacts\21\2105ba92c50fcb8593c1af714e7461f0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\23\2300dbbc89bdbec160f871f548dbda20
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\23\2300dbbc89bdbec160f871f548dbda20
-    projectPath: Library\Artifacts\23\2300dbbc89bdbec160f871f548dbda20
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\24\24421c3e53140f6794ce40c17746db6e
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\24\24421c3e53140f6794ce40c17746db6e
-    projectPath: Library\Artifacts\24\24421c3e53140f6794ce40c17746db6e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\24\249b5144a1fd35c42a85960840bd8a09
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\24\249b5144a1fd35c42a85960840bd8a09
-    projectPath: Library\Artifacts\24\249b5144a1fd35c42a85960840bd8a09
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Artifacts\24\24b7baa43e8a7acd66238df995d97a5e
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\24\24b7baa43e8a7acd66238df995d97a5e
     projectPath: Library\Artifacts\24\24b7baa43e8a7acd66238df995d97a5e
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: ROBOT GAME\Library\Artifacts\24\24b93ae353a374e5718cfa48322db77c
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\24\24b93ae353a374e5718cfa48322db77c
     projectPath: Library\Artifacts\24\24b93ae353a374e5718cfa48322db77c
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ROBOT GAME\Library\Artifacts\2a\2a66898a7b2ec84f75072f92e690934b
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\2a\2a66898a7b2ec84f75072f92e690934b
+    projectPath: Library\Artifacts\2a\2a66898a7b2ec84f75072f92e690934b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ROBOT GAME\Library\Artifacts\2e\2e1dc81b1ccf954797171d7f166cf3a9
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\2e\2e1dc81b1ccf954797171d7f166cf3a9
+    projectPath: Library\Artifacts\2e\2e1dc81b1ccf954797171d7f166cf3a9
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\25\25ffce8629d8e04110cf938db780c409
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\25\25ffce8629d8e04110cf938db780c409
-    projectPath: Library\Artifacts\25\25ffce8629d8e04110cf938db780c409
+  - path: ROBOT GAME\Library\Artifacts\38\38030b99dbd8c7b61eb7e63a9c0f0eed
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\38\38030b99dbd8c7b61eb7e63a9c0f0eed
+    projectPath: Library\Artifacts\38\38030b99dbd8c7b61eb7e63a9c0f0eed
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\2b\2b54455d48badc2dbb30e6b31cb6d2c9
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\2b\2b54455d48badc2dbb30e6b31cb6d2c9
-    projectPath: Library\Artifacts\2b\2b54455d48badc2dbb30e6b31cb6d2c9
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\3e\3ea976bf5387f517902f7bae4bed7437
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\3e\3ea976bf5387f517902f7bae4bed7437
+    projectPath: Library\Artifacts\3e\3ea976bf5387f517902f7bae4bed7437
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\2c\2c20fa7355ce054274d6b8eee2afc15e
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\2c\2c20fa7355ce054274d6b8eee2afc15e
-    projectPath: Library\Artifacts\2c\2c20fa7355ce054274d6b8eee2afc15e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\32\32d7c496edd6e617a22aaa4beb8bcbc5
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\32\32d7c496edd6e617a22aaa4beb8bcbc5
-    projectPath: Library\Artifacts\32\32d7c496edd6e617a22aaa4beb8bcbc5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\34\340ff50aa00506b8da79a9931da046eb
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\34\340ff50aa00506b8da79a9931da046eb
-    projectPath: Library\Artifacts\34\340ff50aa00506b8da79a9931da046eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\34\34927ba5a6cf59b50bfe45190c783118
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\34\34927ba5a6cf59b50bfe45190c783118
-    projectPath: Library\Artifacts\34\34927ba5a6cf59b50bfe45190c783118
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\35\35fc0f28ebd2cdbcdf5d81968b1d3993
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\35\35fc0f28ebd2cdbcdf5d81968b1d3993
-    projectPath: Library\Artifacts\35\35fc0f28ebd2cdbcdf5d81968b1d3993
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\39\39403c19625a37a16ed5fcfa4708a325
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\39\39403c19625a37a16ed5fcfa4708a325
-    projectPath: Library\Artifacts\39\39403c19625a37a16ed5fcfa4708a325
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\42\421431a4c2dfebe1bdd1f5c3033a5d58
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\42\421431a4c2dfebe1bdd1f5c3033a5d58
-    projectPath: Library\Artifacts\42\421431a4c2dfebe1bdd1f5c3033a5d58
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\42\426f0fe9a957632ed448fd97dbe3663f
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\42\426f0fe9a957632ed448fd97dbe3663f
-    projectPath: Library\Artifacts\42\426f0fe9a957632ed448fd97dbe3663f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\43\43634a48b1f9ed64e36cca4d37e09473
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\43\43634a48b1f9ed64e36cca4d37e09473
-    projectPath: Library\Artifacts\43\43634a48b1f9ed64e36cca4d37e09473
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Artifacts\44\44e28de6e84686f77f2920291acece0a
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\44\44e28de6e84686f77f2920291acece0a
     projectPath: Library\Artifacts\44\44e28de6e84686f77f2920291acece0a
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\46\46e37896186a060faac9aed6ed0d1b40
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\46\46e37896186a060faac9aed6ed0d1b40
-    projectPath: Library\Artifacts\46\46e37896186a060faac9aed6ed0d1b40
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ROBOT GAME\Library\Artifacts\56\560787030051e260b559788ca6e32837
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\56\560787030051e260b559788ca6e32837
+    projectPath: Library\Artifacts\56\560787030051e260b559788ca6e32837
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\47\47fa72696993f050b356618793324c60
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\47\47fa72696993f050b356618793324c60
-    projectPath: Library\Artifacts\47\47fa72696993f050b356618793324c60
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\48\489253054d85b156797624f1973b57d9
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\48\489253054d85b156797624f1973b57d9
-    projectPath: Library\Artifacts\48\489253054d85b156797624f1973b57d9
+  - path: ROBOT GAME\Library\Artifacts\58\587c6f36af1b50daff57c97c5b98308f
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\58\587c6f36af1b50daff57c97c5b98308f
+    projectPath: Library\Artifacts\58\587c6f36af1b50daff57c97c5b98308f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\48\48fe0b10ff5f7ffdbfdb6d268ec24375
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\48\48fe0b10ff5f7ffdbfdb6d268ec24375
-    projectPath: Library\Artifacts\48\48fe0b10ff5f7ffdbfdb6d268ec24375
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\4c\4ca2b3f3425d02f16a0c688b383927b2
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\4c\4ca2b3f3425d02f16a0c688b383927b2
-    projectPath: Library\Artifacts\4c\4ca2b3f3425d02f16a0c688b383927b2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\50\502b47f17fdfaaa952139f704ae75ec3
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\50\502b47f17fdfaaa952139f704ae75ec3
-    projectPath: Library\Artifacts\50\502b47f17fdfaaa952139f704ae75ec3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\51\51760b45218b5dd76352f65d79a2be9b
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\51\51760b45218b5dd76352f65d79a2be9b
-    projectPath: Library\Artifacts\51\51760b45218b5dd76352f65d79a2be9b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\5a\5a28bbc1f1a5cf25710a5712d845e9b5
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5a\5a28bbc1f1a5cf25710a5712d845e9b5
-    projectPath: Library\Artifacts\5a\5a28bbc1f1a5cf25710a5712d845e9b5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\5b\5b01da090edf4cbd7c3e4be2f945b316
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5b\5b01da090edf4cbd7c3e4be2f945b316
-    projectPath: Library\Artifacts\5b\5b01da090edf4cbd7c3e4be2f945b316
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\5c\5ca91c029a818add1daf5c821d541d48
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5c\5ca91c029a818add1daf5c821d541d48
-    projectPath: Library\Artifacts\5c\5ca91c029a818add1daf5c821d541d48
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+  - path: ROBOT GAME\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\5f\5f921de2faaf9ffb42334e8f73840d49
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5f\5f921de2faaf9ffb42334e8f73840d49
-    projectPath: Library\Artifacts\5f\5f921de2faaf9ffb42334e8f73840d49
+  - path: ROBOT GAME\Library\Artifacts\65\659ec0ced9a01e44a6b9063831ea01ab
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\65\659ec0ced9a01e44a6b9063831ea01ab
+    projectPath: Library\Artifacts\65\659ec0ced9a01e44a6b9063831ea01ab
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\5f\5fec2b2cf827cc409f5951d293f52f54
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\5f\5fec2b2cf827cc409f5951d293f52f54
-    projectPath: Library\Artifacts\5f\5fec2b2cf827cc409f5951d293f52f54
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\69\69b2f60f5732012a41c491ec453e38d1
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\69\69b2f60f5732012a41c491ec453e38d1
+    projectPath: Library\Artifacts\69\69b2f60f5732012a41c491ec453e38d1
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\60\608011c671a1a62b3baa5eb6d35148cc
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\60\608011c671a1a62b3baa5eb6d35148cc
-    projectPath: Library\Artifacts\60\608011c671a1a62b3baa5eb6d35148cc
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\6c\6c96f6c6b83e76a078eadc9329b19d01
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\6c\6c96f6c6b83e76a078eadc9329b19d01
+    projectPath: Library\Artifacts\6c\6c96f6c6b83e76a078eadc9329b19d01
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\60\60e3c1ca3e4073842e5a9dc427cb0790
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\60\60e3c1ca3e4073842e5a9dc427cb0790
-    projectPath: Library\Artifacts\60\60e3c1ca3e4073842e5a9dc427cb0790
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\79\79d8fa6a76daf396616e642f9fdab438
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\79\79d8fa6a76daf396616e642f9fdab438
+    projectPath: Library\Artifacts\79\79d8fa6a76daf396616e642f9fdab438
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\62\6268289e6720dca90ff39ea3732159eb
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\62\6268289e6720dca90ff39ea3732159eb
-    projectPath: Library\Artifacts\62\6268289e6720dca90ff39ea3732159eb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\65\650ee678047c397c9cf0b373c46451de
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\65\650ee678047c397c9cf0b373c46451de
-    projectPath: Library\Artifacts\65\650ee678047c397c9cf0b373c46451de
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\65\654ebf14e71d04c6b0341b5696692143
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\65\654ebf14e71d04c6b0341b5696692143
-    projectPath: Library\Artifacts\65\654ebf14e71d04c6b0341b5696692143
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\66\66c39df9e3233069b5c4090a39dde0a7
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\66\66c39df9e3233069b5c4090a39dde0a7
-    projectPath: Library\Artifacts\66\66c39df9e3233069b5c4090a39dde0a7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\68\68956dced61f95456e65e5c99d5da52b
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\68\68956dced61f95456e65e5c99d5da52b
-    projectPath: Library\Artifacts\68\68956dced61f95456e65e5c99d5da52b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\6c\6cd84330b691e59515f303e859275671
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\6c\6cd84330b691e59515f303e859275671
-    projectPath: Library\Artifacts\6c\6cd84330b691e59515f303e859275671
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\70\70706e29d3369ad369544aa5f146ed90
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\70\70706e29d3369ad369544aa5f146ed90
-    projectPath: Library\Artifacts\70\70706e29d3369ad369544aa5f146ed90
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\77\774d6a3cde817c0c6f195903a9153203
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\77\774d6a3cde817c0c6f195903a9153203
-    projectPath: Library\Artifacts\77\774d6a3cde817c0c6f195903a9153203
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\7b\7bdda756ccd5a3c651c7addfe1118011
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\7b\7bdda756ccd5a3c651c7addfe1118011
-    projectPath: Library\Artifacts\7b\7bdda756ccd5a3c651c7addfe1118011
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Artifacts\7e\7e5b74dac0031ec74148fc916d724a9f
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\7e\7e5b74dac0031ec74148fc916d724a9f
     projectPath: Library\Artifacts\7e\7e5b74dac0031ec74148fc916d724a9f
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ROBOT GAME\Library\Artifacts\7e\7e61bd700e1889ef1f56fb6332723090
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\7e\7e61bd700e1889ef1f56fb6332723090
+    projectPath: Library\Artifacts\7e\7e61bd700e1889ef1f56fb6332723090
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: ROBOT GAME\Library\Artifacts\7f\7f3d85fbd7e39734bd00c73c10c0115d
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\7f\7f3d85fbd7e39734bd00c73c10c0115d
+    projectPath: Library\Artifacts\7f\7f3d85fbd7e39734bd00c73c10c0115d
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\7e\7e6804c03246d2b78f79929dbf2044fd
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\7e\7e6804c03246d2b78f79929dbf2044fd
-    projectPath: Library\Artifacts\7e\7e6804c03246d2b78f79929dbf2044fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\81\81e716acb9efb4503a7de83a9842dcbb
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\81\81e716acb9efb4503a7de83a9842dcbb
-    projectPath: Library\Artifacts\81\81e716acb9efb4503a7de83a9842dcbb
+  - path: ROBOT GAME\Library\Artifacts\80\80d0fc0bebcd62ee7b53a2faef120091
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\80\80d0fc0bebcd62ee7b53a2faef120091
+    projectPath: Library\Artifacts\80\80d0fc0bebcd62ee7b53a2faef120091
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Library\Artifacts\82\825093752fad38508801610a465f8d8c
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\82\825093752fad38508801610a465f8d8c
-    projectPath: Library\Artifacts\82\825093752fad38508801610a465f8d8c
+  - path: ROBOT GAME\Library\Artifacts\83\83100813b0c0a71b1393754b119a7e06
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\83\83100813b0c0a71b1393754b119a7e06
+    projectPath: Library\Artifacts\83\83100813b0c0a71b1393754b119a7e06
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\91\91cecce972779e0dc8c3239f4367536d
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\91\91cecce972779e0dc8c3239f4367536d
+    projectPath: Library\Artifacts\91\91cecce972779e0dc8c3239f4367536d
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\84\8432a5bcf5ba4c3ccc5deef68d41886c
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\84\8432a5bcf5ba4c3ccc5deef68d41886c
-    projectPath: Library\Artifacts\84\8432a5bcf5ba4c3ccc5deef68d41886c
+  - path: ROBOT GAME\Library\Artifacts\97\977c40cffa15e20d0ec1e97243127593
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\97\977c40cffa15e20d0ec1e97243127593
+    projectPath: Library\Artifacts\97\977c40cffa15e20d0ec1e97243127593
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\84\844cb48a8a53aa434e0b1deeb91ea1af
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\84\844cb48a8a53aa434e0b1deeb91ea1af
-    projectPath: Library\Artifacts\84\844cb48a8a53aa434e0b1deeb91ea1af
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\a6\a60cadbfd4431714ac60d2a768c78997
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\a6\a60cadbfd4431714ac60d2a768c78997
+    projectPath: Library\Artifacts\a6\a60cadbfd4431714ac60d2a768c78997
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\88\881eade0aa38fc2b2d958c34dac5a8b5
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\88\881eade0aa38fc2b2d958c34dac5a8b5
-    projectPath: Library\Artifacts\88\881eade0aa38fc2b2d958c34dac5a8b5
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\b1\b107c1ae6e588c37b01a58e4f9a1160d
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\b1\b107c1ae6e588c37b01a58e4f9a1160d
+    projectPath: Library\Artifacts\b1\b107c1ae6e588c37b01a58e4f9a1160d
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\89\895fc52601582e3f82d2e4933522f6fd
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\89\895fc52601582e3f82d2e4933522f6fd
-    projectPath: Library\Artifacts\89\895fc52601582e3f82d2e4933522f6fd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\90\90932cdff4dd628af25ccb9b6a699cdf
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\90\90932cdff4dd628af25ccb9b6a699cdf
-    projectPath: Library\Artifacts\90\90932cdff4dd628af25ccb9b6a699cdf
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\92\922e797ad2c9c6ff460f6765585d75f3
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\92\922e797ad2c9c6ff460f6765585d75f3
-    projectPath: Library\Artifacts\92\922e797ad2c9c6ff460f6765585d75f3
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\92\92720de11f05d92202fcc99d8e6521a2
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\92\92720de11f05d92202fcc99d8e6521a2
-    projectPath: Library\Artifacts\92\92720de11f05d92202fcc99d8e6521a2
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\97\971dd29712f5e32d4f76355219a1b2ad
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\97\971dd29712f5e32d4f76355219a1b2ad
-    projectPath: Library\Artifacts\97\971dd29712f5e32d4f76355219a1b2ad
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\9a\9acbb8811af276ab16ece412615d5803
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\9a\9acbb8811af276ab16ece412615d5803
-    projectPath: Library\Artifacts\9a\9acbb8811af276ab16ece412615d5803
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\9c\9cb8264cad0c01c611571b2eeb7960f6
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\9c\9cb8264cad0c01c611571b2eeb7960f6
-    projectPath: Library\Artifacts\9c\9cb8264cad0c01c611571b2eeb7960f6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\9f\9f9c9e7db026f33d331f4f74fd9581e0
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\9f\9f9c9e7db026f33d331f4f74fd9581e0
-    projectPath: Library\Artifacts\9f\9f9c9e7db026f33d331f4f74fd9581e0
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\a2\a2277eb2ecc167d073d29ac2f73a192e
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\a2\a2277eb2ecc167d073d29ac2f73a192e
-    projectPath: Library\Artifacts\a2\a2277eb2ecc167d073d29ac2f73a192e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\a3\a33b4ee59b088dec47eef1e359493464
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\a3\a33b4ee59b088dec47eef1e359493464
-    projectPath: Library\Artifacts\a3\a33b4ee59b088dec47eef1e359493464
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\a5\a58cec4a5b6b30a97760ababc9c0ce4b
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\a5\a58cec4a5b6b30a97760ababc9c0ce4b
-    projectPath: Library\Artifacts\a5\a58cec4a5b6b30a97760ababc9c0ce4b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Artifacts\b7\b724ef4dc76dd499b012ef7008292601
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\b7\b724ef4dc76dd499b012ef7008292601
     projectPath: Library\Artifacts\b7\b724ef4dc76dd499b012ef7008292601
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\cb\cb7b3085cc0a3516b9565ca9f451ccc9
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\cb\cb7b3085cc0a3516b9565ca9f451ccc9
-    projectPath: Library\Artifacts\cb\cb7b3085cc0a3516b9565ca9f451ccc9
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\b8\b82bcec289dea2ce583263e836da4748
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\b8\b82bcec289dea2ce583263e836da4748
+    projectPath: Library\Artifacts\b8\b82bcec289dea2ce583263e836da4748
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\ce\ce274dfc5171dc89bf2ec8060fa5658d
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ce\ce274dfc5171dc89bf2ec8060fa5658d
-    projectPath: Library\Artifacts\ce\ce274dfc5171dc89bf2ec8060fa5658d
+  - path: ROBOT GAME\Library\Artifacts\c2\c21536a43696636f31e8afe96caf1e90
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\c2\c21536a43696636f31e8afe96caf1e90
+    projectPath: Library\Artifacts\c2\c21536a43696636f31e8afe96caf1e90
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\c6\c6b798ccc158846fcf7da64ab7810979
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\c6\c6b798ccc158846fcf7da64ab7810979
+    projectPath: Library\Artifacts\c6\c6b798ccc158846fcf7da64ab7810979
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\c6\c6e08b41a26fc1fba1f656da4253affc
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\c6\c6e08b41a26fc1fba1f656da4253affc
+    projectPath: Library\Artifacts\c6\c6e08b41a26fc1fba1f656da4253affc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\c9\c9bfb1fb4b86e1a619066fac2196bb47
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\c9\c9bfb1fb4b86e1a619066fac2196bb47
+    projectPath: Library\Artifacts\c9\c9bfb1fb4b86e1a619066fac2196bb47
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\cf\cf5982c3cefe90f545ca9532e7ed8e87
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\cf\cf5982c3cefe90f545ca9532e7ed8e87
-    projectPath: Library\Artifacts\cf\cf5982c3cefe90f545ca9532e7ed8e87
+  - path: ROBOT GAME\Library\Artifacts\d6\d6e0964ddce39247c43fefbae185521e
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d6\d6e0964ddce39247c43fefbae185521e
+    projectPath: Library\Artifacts\d6\d6e0964ddce39247c43fefbae185521e
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\d2\d2d4a3b67c6b378505a7c411b56d3d12
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d2\d2d4a3b67c6b378505a7c411b56d3d12
-    projectPath: Library\Artifacts\d2\d2d4a3b67c6b378505a7c411b56d3d12
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\e7\e7fd4471fd6861158b6f74b35bf04d2d
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\e7\e7fd4471fd6861158b6f74b35bf04d2d
+    projectPath: Library\Artifacts\e7\e7fd4471fd6861158b6f74b35bf04d2d
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\d4\d48b47526417dcc9bb62b61ef9d21ce8
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d4\d48b47526417dcc9bb62b61ef9d21ce8
-    projectPath: Library\Artifacts\d4\d48b47526417dcc9bb62b61ef9d21ce8
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\ec\ec64effe9d71970e67ebacf924f58a5a
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ec\ec64effe9d71970e67ebacf924f58a5a
+    projectPath: Library\Artifacts\ec\ec64effe9d71970e67ebacf924f58a5a
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\d5\d5c0af94d40b62301c13b470452b40ae
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d5\d5c0af94d40b62301c13b470452b40ae
-    projectPath: Library\Artifacts\d5\d5c0af94d40b62301c13b470452b40ae
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\d8\d82c8849ddd2071fae6c6c9afc97a63a
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d8\d82c8849ddd2071fae6c6c9afc97a63a
-    projectPath: Library\Artifacts\d8\d82c8849ddd2071fae6c6c9afc97a63a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\d9\d9efefed7f7b034373cfa0bf165685a4
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\d9\d9efefed7f7b034373cfa0bf165685a4
-    projectPath: Library\Artifacts\d9\d9efefed7f7b034373cfa0bf165685a4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\da\da04748d62247415fbc1db6cd7f89283
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\da\da04748d62247415fbc1db6cd7f89283
-    projectPath: Library\Artifacts\da\da04748d62247415fbc1db6cd7f89283
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\da\daff7cad0860afe7e3d928fc43e43a5a
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\da\daff7cad0860afe7e3d928fc43e43a5a
-    projectPath: Library\Artifacts\da\daff7cad0860afe7e3d928fc43e43a5a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\de\de29953770fbd8f18dc0de4f0dfc05cc
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\de\de29953770fbd8f18dc0de4f0dfc05cc
-    projectPath: Library\Artifacts\de\de29953770fbd8f18dc0de4f0dfc05cc
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\e2\e2b452c1f2cea44bbab9e2780b3282db
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\e2\e2b452c1f2cea44bbab9e2780b3282db
-    projectPath: Library\Artifacts\e2\e2b452c1f2cea44bbab9e2780b3282db
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\eb\ebf0ac7cf2f3a3f75c117d06f75621be
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\eb\ebf0ac7cf2f3a3f75c117d06f75621be
-    projectPath: Library\Artifacts\eb\ebf0ac7cf2f3a3f75c117d06f75621be
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\ec\ec0792cd97514ed64b084e9959c6e293
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ec\ec0792cd97514ed64b084e9959c6e293
-    projectPath: Library\Artifacts\ec\ec0792cd97514ed64b084e9959c6e293
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Artifacts\ed\ed0b62c2ddbc91b48330898568844e8c
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ed\ed0b62c2ddbc91b48330898568844e8c
     projectPath: Library\Artifacts\ed\ed0b62c2ddbc91b48330898568844e8c
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\ed\ed353097608a81fe9642d0c097eee70f
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ed\ed353097608a81fe9642d0c097eee70f
-    projectPath: Library\Artifacts\ed\ed353097608a81fe9642d0c097eee70f
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\ee\ee31cf6bae3cb760732244fbc8278dac
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ee\ee31cf6bae3cb760732244fbc8278dac
+    projectPath: Library\Artifacts\ee\ee31cf6bae3cb760732244fbc8278dac
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\Artifacts\f1\f11b7d8a2580c2fda6f540f06a7109fd
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\f1\f11b7d8a2580c2fda6f540f06a7109fd
+    projectPath: Library\Artifacts\f1\f11b7d8a2580c2fda6f540f06a7109fd
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\f0\f0cb6034ace51bd91466c752b8458bd1
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\f0\f0cb6034ace51bd91466c752b8458bd1
-    projectPath: Library\Artifacts\f0\f0cb6034ace51bd91466c752b8458bd1
+  - path: ROBOT GAME\Library\Artifacts\ff\ff78c3601a7afb8d7a8e1129ba2f0226
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\ff\ff78c3601a7afb8d7a8e1129ba2f0226
+    projectPath: Library\Artifacts\ff\ff78c3601a7afb8d7a8e1129ba2f0226
     originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\f6\f6724831771e1e13463592a7e0a95ed7
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\f6\f6724831771e1e13463592a7e0a95ed7
-    projectPath: Library\Artifacts\f6\f6724831771e1e13463592a7e0a95ed7
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Library\Artifacts\f6\f6aa0c94c8c0e588d452651c9ddff415
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Artifacts\f6\f6aa0c94c8c0e588d452651c9ddff415
-    projectPath: Library\Artifacts\f6\f6aa0c94c8c0e588d452651c9ddff415
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
+    indexStatus: 1
+    workTreeStatus: 1
   - path: ROBOT GAME\Library\Bee\1900b0aE.dag
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\1900b0aE.dag
     projectPath: Library\Bee\1900b0aE.dag
@@ -619,18 +558,6 @@ MonoBehaviour:
   - path: ROBOT GAME\Library\Bee\1900b0aE.dag.json
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\1900b0aE.dag.json
     projectPath: Library\Bee\1900b0aE.dag.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\Library\Bee\1900b0aE.dag_derived
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\1900b0aE.dag_derived
-    projectPath: Library\Bee\1900b0aE.dag_derived
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\Library\Bee\1900b0aE.dag_fsmtime
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\1900b0aE.dag_fsmtime
-    projectPath: Library\Bee\1900b0aE.dag_fsmtime
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -662,8 +589,8 @@ MonoBehaviour:
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\backend_profiler0.traceevents
     projectPath: Library\Bee\backend_profiler0.traceevents
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ROBOT GAME\Library\Bee\backend_profiler1.traceevents
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\backend_profiler1.traceevents
     projectPath: Library\Bee\backend_profiler1.traceevents
@@ -704,8 +631,8 @@ MonoBehaviour:
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Bee\TundraBuildState.state.map
     projectPath: Library\Bee\TundraBuildState.state.map
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ROBOT GAME\Library\EditorInstance.json
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
@@ -736,6 +663,24 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: ROBOT GAME\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Library\PackageManager\ProjectCache
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Library\PackageManager\ProjectCache.md5
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ROBOT GAME\Library\SceneVisibilityState.asset
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -751,6 +696,72 @@ MonoBehaviour:
   - path: ROBOT GAME\Library\Search\transactions.db
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\Search\transactions.db
     projectPath: Library\Search\transactions.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\0d5eda561c478f961d0518fed63a1ab2.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\0d5eda561c478f961d0518fed63a1ab2.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\0d5eda561c478f961d0518fed63a1ab2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\29fa87f7c4468908bfcf36ce5c519a6f.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\29fa87f7c4468908bfcf36ce5c519a6f.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\29fa87f7c4468908bfcf36ce5c519a6f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\5ade6d9a9d699cff8862cf6efb96e8ee.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\5ade6d9a9d699cff8862cf6efb96e8ee.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\5ade6d9a9d699cff8862cf6efb96e8ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\62c4c09f7f38cbc10483bab55b070833.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\62c4c09f7f38cbc10483bab55b070833.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\62c4c09f7f38cbc10483bab55b070833.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\759ee9ecdd8f78e3c2dcc48ce211a714.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\759ee9ecdd8f78e3c2dcc48ce211a714.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\759ee9ecdd8f78e3c2dcc48ce211a714.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b456d33c640eea42251e645793e76af.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b456d33c640eea42251e645793e76af.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\7b456d33c640eea42251e645793e76af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\be4fc8b1edf804002712bc1a1e88c127.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\be4fc8b1edf804002712bc1a1e88c127.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\be4fc8b1edf804002712bc1a1e88c127.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\bea72217183dbd2e0a41244a7d02cffb.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\bea72217183dbd2e0a41244a7d02cffb.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\bea72217183dbd2e0a41244a7d02cffb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\df9f481773b1152d3c07589e600b9e45.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\df9f481773b1152d3c07589e600b9e45.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\df9f481773b1152d3c07589e600b9e45.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\fca194010f0f75217a832f9b2c2d68d0.bin
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\builtin\unity_builtin_extra0000\00\fca194010f0f75217a832f9b2c2d68d0.bin
+    projectPath: Library\ShaderCache\builtin\unity_builtin_extra0000\00\fca194010f0f75217a832f9b2c2d68d0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: ROBOT GAME\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -796,30 +807,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ROBOT GAME\Logs\AssetImportWorker2.log
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\AssetImportWorker2.log
-    projectPath: Logs\AssetImportWorker2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: ROBOT GAME\Logs\AssetImportWorker2-prev.log
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\AssetImportWorker2-prev.log
     projectPath: Logs\AssetImportWorker2-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\Logs\AssetImportWorker3.log
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\AssetImportWorker3.log
-    projectPath: Logs\AssetImportWorker3.log
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 5
+    workTreeStatus: 3
   - path: ROBOT GAME\Logs\AssetImportWorker3-prev.log
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\AssetImportWorker3-prev.log
     projectPath: Logs\AssetImportWorker3-prev.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 3
   - path: ROBOT GAME\Logs\shadercompiler-AssetImportWorker0.log
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\shadercompiler-AssetImportWorker0.log
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
@@ -832,141 +831,15 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ROBOT GAME\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: ROBOT GAME\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: ROBOT GAME\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: ROBOT GAME\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
     projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Analytics.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Analytics.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Analytics.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Configuration.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Configuration.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Configuration.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Environments.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Environments.Internal.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Environments.Internal.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Environments.Internal.Player.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Scheduler.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Scheduler.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Scheduler.Player.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Telemetry.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Services.Core.Telemetry.Player.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.VisualScripting.Core.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.VisualScripting.Core.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.VisualScripting.Flow.Editor.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Unity.VisualScripting.Flow.Player.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\UnityEditor.UI.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\UnityEngine.TestRunner.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\UnityEngine.TestRunner.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\UnityEngine.TestRunner.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\UnityEngine.TestRunner.Player.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: ROBOT GAME\obj\Debug\UnityEngine.UI.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\UnityEngine.UI.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\UnityEngine.UI.csproj.AssemblyReference.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ROBOT GAME\obj\Debug\UnityEngine.UI.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\obj\Debug\UnityEngine.UI.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\UnityEngine.UI.Player.csproj.AssemblyReference.cache
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -982,21 +855,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Temp\FSTimeGet-1e2e9d983dc55f046a601530d1251d95
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-1e2e9d983dc55f046a601530d1251d95
-    projectPath: Temp\FSTimeGet-1e2e9d983dc55f046a601530d1251d95
+  - path: ROBOT GAME\Temp\FSTimeGet-58646d6f435c7f349a44558eee450f7f
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-58646d6f435c7f349a44558eee450f7f
+    projectPath: Temp\FSTimeGet-58646d6f435c7f349a44558eee450f7f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Temp\FSTimeGet-6ff42ab4ac114be4aaf3bf53184a6564
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-6ff42ab4ac114be4aaf3bf53184a6564
-    projectPath: Temp\FSTimeGet-6ff42ab4ac114be4aaf3bf53184a6564
+  - path: ROBOT GAME\Temp\FSTimeGet-96afa36904c649a4db5fc6f43b38523c
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-96afa36904c649a4db5fc6f43b38523c
+    projectPath: Temp\FSTimeGet-96afa36904c649a4db5fc6f43b38523c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: ROBOT GAME\Temp\FSTimeGet-989372283e2d1f441938a8cf18778210
-    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-989372283e2d1f441938a8cf18778210
-    projectPath: Temp\FSTimeGet-989372283e2d1f441938a8cf18778210
+  - path: ROBOT GAME\Temp\FSTimeGet-e5e4984d224141f4fbbe6ff13ebd4f39
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\Temp\FSTimeGet-e5e4984d224141f4fbbe6ff13ebd4f39
+    projectPath: Temp\FSTimeGet-e5e4984d224141f4fbbe6ff13ebd4f39
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -1024,3 +897,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: ROBOT GAME\UserSettings\Layouts\default-2021.dwlt
+    fullPath: C:\Users\142115\Documents\github\neatrobotgame\ROBOT GAME\UserSettings\Layouts\default-2021.dwlt
+    projectPath: UserSettings\Layouts\default-2021.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
